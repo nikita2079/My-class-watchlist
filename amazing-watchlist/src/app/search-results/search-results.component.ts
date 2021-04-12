@@ -2,7 +2,7 @@
 import { Component, OnInit } from '@angular/core';
 import {Show} from '../models/show.model';
 import {DummyService} from '../services/dummy.service';
-
+// this is nikita
 @Component({
   selector: 'app-search-results',
   templateUrl: './search-results.component.html',
